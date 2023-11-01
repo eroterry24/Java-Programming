@@ -37,5 +37,17 @@ public class MethodClassTest {
 
 
 
+
+    }
+
+    @Test
+    public void test_multiplyTwoNumber(){
+        int result = methodClass.multiplyNumber(2, 2);
+
+        Assertions.assertEquals(result, 4);
+
+
+
+
     }
 }

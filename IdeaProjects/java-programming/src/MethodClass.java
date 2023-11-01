@@ -30,4 +30,17 @@ public class MethodClass {
 
 
 
-}}
+}
+    public int multiplyNumber (int firstNumber, int secondNumber){
+
+        return firstNumber * secondNumber;}
+
+
+
+
+
+
+
+
+
+}
