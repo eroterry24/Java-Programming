@@ -16,5 +16,26 @@ public class MethodClassTest {
 
 
 
+
+
+
+}
+    @Test
+    public void test_subtractTwoNumber(){
+        int result = methodClass.subtractNumber(45, 5);
+
+        Assertions.assertEquals(result, 40);
+
+
+
+    }
+    @Test
+    public void test_divideTwoNumber(){
+        int result = methodClass.divideNumber(10, 2);
+
+        Assertions.assertEquals(result, 5);
+
+
+
     }
 }
