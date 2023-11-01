@@ -1,7 +1,7 @@
 public class MethodClass {
 
-    public int divideNumber (int firstNumber, int secondNumber){
+    public int addNumber (int firstNumber, int secondNumber){
 
-        return firstNumber / secondNumber;
+        return firstNumber + secondNumber;
     }
 }

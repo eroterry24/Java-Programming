@@ -9,10 +9,10 @@ public class MethodClassTest {
     MethodClass methodClass = new MethodClass();
 
     @Test
-    public void test_divideTwoNumber(){
-        int result = methodClass.divideNumber(45, 5);
+    public void test_addTwoNumber(){
+        int result = methodClass.addNumber(45, 5);
 
-        Assertions.assertEquals(result, 9);
+        Assertions.assertEquals(result, 50);
 
 
 
