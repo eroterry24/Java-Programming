@@ -10,7 +10,7 @@ public class Abstract {
         System.out.println("Enter second number; ");
         int secondNumberResult = addNumber.nextInt();
 
-        int result = firstNumberResult * secondNumberResult;
+        int result = firstNumberResult + secondNumberResult;
         System.out.println(" the sum of the two is" + result);
 
     }
