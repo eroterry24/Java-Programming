@@ -37,8 +37,7 @@ public class ClassWork11 {
 
         }
         System.out.println("we have" + countEvenNumber + "even number");
-//        System.out.println("we have" + countOddNumber + "odd number");
-
+        System.out.println("we have" + countOddNumber + "odd number");
          }
 
     }
